@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Einice\\Theme": "src/"
+            "Einice\\Theme\\": "src/"
         },
         "files": [
             "src/helpers.php"
